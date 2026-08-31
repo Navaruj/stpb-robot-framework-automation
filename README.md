@@ -2,7 +2,7 @@
 
 [![Robot Framework Tests](https://github.com/Navaruj/stpb-robot-framework-automation/actions/workflows/robot-tests.yml/badge.svg)](https://github.com/Navaruj/stpb-robot-framework-automation/actions/workflows/robot-tests.yml)
 
-Portfolio project for web UI test automation using Robot Framework and Browser Library (Playwright) against the [STPB practice application](https://automate-test.stpb-digital.com/login/).
+Portfolio project for web UI test automation using Robot Framework and Browser Library against the [STPB practice application](https://automate-test.stpb-digital.com/login/).
 
 ## Highlights
 
